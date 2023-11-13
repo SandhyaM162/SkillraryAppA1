@@ -9,7 +9,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericlibraries.BaseClass;
 import genericlibraries.IconstantPath;
-
+//The test is success
 public class CreateCourseTest extends BaseClass{
 	@Test
 	public void createCourseTest() throws InterruptedException {
